@@ -4,6 +4,9 @@
 ## 📌 Project Overview
 StudyNotion is an EdTech platform designed to provide an interactive and engaging learning experience for students. The platform offers a wide range of educational resources, courses, and mentorship programs to help students enhance their knowledge and skills. It aims to bridge the gap between learners and expert educators by providing a structured learning environment.
 
+## 📌 Live Link : study-notion-zeta-five.vercel.app
+
+
 ## ✨ Features
 - **User Authentication & Profile Management**
 - **Course Creation & Enrollment**
